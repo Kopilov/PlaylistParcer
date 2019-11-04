@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=IP TV (playlist order)
+Icon=sknt
+Exec=playlistparcer original_order
+Categories=AudioVideo;Player
+Keywords=Player;Audio;Video

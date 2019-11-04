@@ -1,0 +1,4 @@
+#!/bin/sh
+
+export WORKDIR=/tmp/iptv
+export PLAYLIST_SOURCE=http://m3u.sknt.ru/

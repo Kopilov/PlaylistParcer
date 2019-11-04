@@ -13,7 +13,7 @@ Make pullrequests for other players support :-)
 
 ## How To Install, Repository Structure
 Here we have a small Java program, POSIX-shell script and Freedesktop entry files that can be
-simply copied to user $HOME directoru to be used.  
+simply copied to user $HOME/.local directory to be used.  
 Also you should install JDK (such as openjdk-11-jdk-headless) for customizing Java code
 or JRE (such as openjdk-11-jre-headless) only for executing.
 
